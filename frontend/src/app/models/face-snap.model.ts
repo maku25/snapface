@@ -24,5 +24,4 @@ export class FaceSnap {
    * public snaps:number) {
 
    */
-
 }
