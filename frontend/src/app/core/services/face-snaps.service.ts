@@ -1,7 +1,7 @@
 import { HttpClient } from "@angular/common/http";
 import { Injectable } from "@angular/core";
 import { Observable, map, switchMap } from "rxjs";
-import { FaceSnap } from "src/app/models/face-snap.model";
+import { FaceSnap } from "src/app/core/models/face-snap.model";
 
 @Injectable({
   providedIn: "root"
