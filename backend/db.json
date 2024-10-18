@@ -6,7 +6,7 @@
       "description": "Mon meilleur ami depuis tout petit !",
       "imageUrl": "https://cdn.pixabay.com/photo/2015/05/31/16/03/teddy-bear-792273_1280.jpg",
       "createdDate": "Mon Dec 13 2021 14:51:42 GMT+0100 (Central European Standard Time)",
-      "snaps": 68,
+      "snaps": 70,
       "location": "Paris"
     },
     {
@@ -60,6 +60,15 @@
       "snaps": 6,
       "createdDate": "2024-10-18T09:32:13.873Z",
       "id": 7
+    },
+    {
+      "title": "C300 AMG",
+      "description": "Pas mal",
+      "imageUrl": "https://img.leboncoin.fr/api/v1/lbcpb1/images/ea/bc/89/eabc89549afaa99d97edc677d77518bdc04e7aaa.jpg?rule=ad-large",
+      "location": "Marseille",
+      "snaps": 2,
+      "createdDate": "2024-10-18T14:06:15.525Z",
+      "id": 8
     }
   ]
 }
